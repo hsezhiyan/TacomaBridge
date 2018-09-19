@@ -7,4 +7,4 @@ torsion on a common suspension bridge. The simulation is based off of the real T
 
 Here is a short clip during the early stages of the simulation:
 
-[![Audi R8](http://img.youtube.com/vi/KOxbO0EI4MA/0.jpg)](https://www.youtube.com/watch?v=KOxbO0EI4MA "Audi R8")
+[![Audi R8](http://img.youtube.com/vi/M9MUdBtHSCk/0.jpg)](https://youtu.be/M9MUdBtHSCk "Early")
