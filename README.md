@@ -17,7 +17,7 @@ Here is a short clip after about 30 seconds:
 
 To run the simulation, run:
 
-tacoma([0 1000], [0 0 0.001 0], 25000, 5)
+`tacoma([0 1000], [0 0 0.001 0], 25000, 5)`
 
 You can change initial conditions with the following info:
 
