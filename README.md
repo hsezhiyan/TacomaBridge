@@ -9,8 +9,6 @@ Here is a short clip during the early stages of the simulation:
 
 [![Tacoma](http://img.youtube.com/vi/M9MUdBtHSCk/0.jpg)](https://youtu.be/M9MUdBtHSCk "Early")
 
-<br><br>
-
 Here is a short clip after about 30 seconds:
 
 [![Tacoma](http://img.youtube.com/vi/ZazN40lbNl0/0.jpg)](https://youtu.be/ZazN40lbNl0 "Late")
