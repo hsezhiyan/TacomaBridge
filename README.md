@@ -15,7 +15,7 @@ Here is a short clip after about 30 seconds:
 
 **Usage**
 
-To run the simulation, run:
+To run the simulation:
 
 `tacoma([0 1000], [0 0 0.001 0], 25000, 5)`
 
