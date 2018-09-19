@@ -1,5 +1,0 @@
-README:
-
-tacoma.m file contains my edited version to implement an RK4 method.
-plot.py contains the python script to plot my log-log error plot.
-burgers.m file contains my edited version for part 2 of computer project 2.
